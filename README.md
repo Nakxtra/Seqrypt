@@ -1,7 +1,7 @@
 # Seqrypt - Web 3.0 Blockchain Application
-![Seqrypt](https://drive.google.com/file/d/1udtR6El7D8YI86G2zTeyJ_RXfGcgOma7/view?usp=share_link "Home page")
+![Seqrypt](https://i.ibb.co/sCRB0Pw/project-ss.jpg "Home page")
 
-![Seqrypt](https://drive.google.com/file/d/1N2JCt5bm4yfEZlY40uyc7bgaRM7D1qYY/view?usp=share_link "Recent Transactions page")
+![Seqrypt](https://i.ibb.co/RcY8wzQ/project-ss-2.jpg "Recent Transactions page")
 
 ## Introduction
 This is a code repository for the corresponding project.
