@@ -1,4 +1,4 @@
-# Seqrypt - Web 3.0 Blockchain Transaction Application
+# Seqrypt - Web 3.0 Blockchain Transactions Application
 ![Seqrypt](https://i.ibb.co/sCRB0Pw/project-ss.jpg "Home page")
 
 ![Seqrypt](https://i.ibb.co/RcY8wzQ/project-ss-2.jpg "Recent Transactions page")
